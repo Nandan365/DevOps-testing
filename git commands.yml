@@ -1,0 +1,189 @@
+Log in
+Sign up for free
+short cut keys in vs code
+
+Visual Studio Code (VS Code) Shortcut Keys
+Here are the most useful VS Code keyboard shortcuts for Windows/Linux and Mac.
+
+1. Basic shortcuts
+Action
+
+Windows / Linux
+
+Mac
+
+Copy
+
+Ctrl + C
+
+Cmd + C
+
+Paste
+
+Ctrl + V
+
+Cmd + V
+
+Cut
+
+Ctrl + X
+
+Cmd + X
+
+Undo
+
+Ctrl + Z
+
+Cmd + Z
+
+Redo
+
+Ctrl + Y
+
+Cmd + Shift + Z
+
+Save
+
+Ctrl + S
+
+Cmd + S
+
+Select All
+
+Ctrl + A
+
+Cmd + A
+
+Find
+
+Ctrl + F
+
+Cmd + F
+
+Replace
+
+Ctrl + H
+
+Cmd + Option + F
+
+2. Coding shortcuts
+Action
+
+Windows / Linux
+
+Mac
+
+Comment line
+
+Ctrl + /
+
+Cmd + /
+
+Format document
+
+Shift + Alt + F
+
+Shift + Option + F
+
+Duplicate line
+
+Shift + Alt + ↓
+
+Shift + Option + ↓
+
+Move line up/down
+
+Alt + ↑ / ↓
+
+Option + ↑ / ↓
+
+Delete line
+
+Ctrl + Shift + K
+
+Cmd + Shift + K
+
+Add cursor
+
+Alt + Click
+
+Option + Click
+
+Select next occurrence
+
+Ctrl + D
+
+Cmd + D
+
+Rename variable
+
+F2
+
+F2
+
+Go to definition
+
+F12
+
+F12
+
+Trigger suggestions
+
+Ctrl + Space
+
+Control + Space
+
+3. File and navigation shortcuts
+Action
+
+Windows / Linux
+
+Mac
+
+Open file
+
+Ctrl + P
+
+Cmd + P
+
+New file
+
+Ctrl + N
+
+Cmd + N
+
+Open folder
+
+Ctrl + K, Ctrl + O
+
+Cmd + K, Cmd + O
+
+Close tab
+
+Ctrl + W
+
+Cmd + W
+
+Reopen closed tab
+
+Ctrl + Shift + T
+
+Cmd + Shift + T
+
+Switch tabs
+
+Ctrl + Tab
+
+Ctrl + Tab
+
+Go to line
+
+Ctrl + G
+
+Ctrl + G
+
+Toggle sidebar
+
+Ctrl + B
+
+Cmd + B
